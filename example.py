@@ -5,3 +5,4 @@ while True:
     time.sleep(10)
     print("Hello World")
     print("Demo line")
+    print("Demo demo line")
